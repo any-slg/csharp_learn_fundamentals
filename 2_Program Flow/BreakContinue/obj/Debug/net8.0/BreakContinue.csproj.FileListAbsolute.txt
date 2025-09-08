@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\bin\Debug\net8.0\BreakContinue.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\bin\Debug\net8.0\BreakContinue.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\bin\Debug\net8.0\BreakContinue.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\bin\Debug\net8.0\BreakContinue.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\bin\Debug\net8.0\BreakContinue.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\refint\BreakContinue.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\BreakContinue.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\BreakContinue\obj\Debug\net8.0\ref\BreakContinue.dll

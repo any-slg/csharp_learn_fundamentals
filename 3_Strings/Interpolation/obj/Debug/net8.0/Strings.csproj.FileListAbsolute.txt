@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\bin\Debug\net8.0\Strings.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\bin\Debug\net8.0\Strings.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\bin\Debug\net8.0\Strings.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\bin\Debug\net8.0\Strings.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\refint\Strings.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Strings\Interpolation\obj\Debug\net8.0\ref\Strings.dll

@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\bin\Debug\net8.0\Defining.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\bin\Debug\net8.0\Defining.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\bin\Debug\net8.0\Defining.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\bin\Debug\net8.0\Defining.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\bin\Debug\net8.0\Defining.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\refint\Defining.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\Defining.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Defining\obj\Debug\net8.0\ref\Defining.dll

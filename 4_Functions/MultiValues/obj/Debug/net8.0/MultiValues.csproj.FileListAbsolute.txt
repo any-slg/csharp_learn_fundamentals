@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\bin\Debug\net8.0\MultiValues.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\bin\Debug\net8.0\MultiValues.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\bin\Debug\net8.0\MultiValues.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\bin\Debug\net8.0\MultiValues.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\bin\Debug\net8.0\MultiValues.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\refint\MultiValues.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\MultiValues.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\MultiValues\obj\Debug\net8.0\ref\MultiValues.dll

@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOut.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOut.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOut.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOut.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOut.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\refint\RefAndOut.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOut.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Functions\RefAndOutParams\obj\Debug\net8.0\ref\RefAndOut.dll

@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Program Flow\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll

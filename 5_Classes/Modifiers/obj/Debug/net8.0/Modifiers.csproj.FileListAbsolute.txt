@@ -1,0 +1,14 @@
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\bin\Debug\net8.0\Modifiers.exe
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\bin\Debug\net8.0\Modifiers.deps.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\bin\Debug\net8.0\Modifiers.runtimeconfig.json
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\bin\Debug\net8.0\Modifiers.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\bin\Debug\net8.0\Modifiers.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.AssemblyInfoInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.AssemblyInfo.cs
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\refint\Modifiers.dll
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.pdb
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\Modifiers.genruntimeconfig.cache
+C:\ANY\32_C#\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet5\Finished\Classes\Modifiers\obj\Debug\net8.0\ref\Modifiers.dll
